@@ -8,7 +8,15 @@
 <h3 align="center">🇷🇺</h3>
 ---
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning swiftbook
+
+### 📋 Languages
+
+| Name          | Badge                                                                                                                            | 🪡 IDEs/Editors                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Python        | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                           | `![Python]`![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)`                           |
+| C             | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                    | `![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)`                                    |
+| C++           | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                          | `![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)`                          |
+| Swift         | ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)                               | `![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)`                               |
 
 <!---
 KreoManser/KreoManser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
