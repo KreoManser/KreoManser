@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, iOS developer from Russia 🇷🇺</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Computer+science+student;iOS+developer+from+Russia+🇷🇺&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+science+student;iOS+developer+from+Russia+🇷🇺&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 ---
 - 👀 I’m interested in iOS
