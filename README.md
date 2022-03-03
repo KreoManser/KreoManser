@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+science+student;iOS+developer+from+Russia+🇷🇺&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+science+student;iOS+developer+from+Russia+🇷🇺;WEB+developer+by+react&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <h3 align="center">🇷🇺</h3>
